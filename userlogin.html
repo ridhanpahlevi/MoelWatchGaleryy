@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DIAMONDWATCH - LOGIN</title>
+    <link rel="stylesheet" href="CSS/userlogin.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,700;1,400;1,700&display=swap"
+      rel="stylesheet"
+    />
+
+    <script src="https://unpkg.com/feather-icons"></script>
+  </head>
+
+  <body>
+    <section>
+      <div class="background">
+        <video loop autoplay muted>
+          <source src="background/Brand Wrist Watch Commercial.mp4" />
+        </video>
+        <div class="form-box">
+          <div class="form-value">
+            <form action="">
+              <h2>
+                Login
+                <p class="brand">Moel Watch Galery</p>
+              </h2>
+
+              <div class="backhome">
+                <a href="index.html"><i data-feather="home"></i></a>
+              </div>
+              <div class="inputbox">
+                <p><i data-feather="mail"></i></p>
+                <input type="email" required />
+                <label for="">Email</label>
+              </div>
+              <div class="inputbox">
+                <p><i data-feather="lock"></i></p>
+                <input type="password" required />
+                <label for="">Password</label>
+              </div>
+              <div class="forget">
+                <label for=""><input type="checkbox" />Remember Me </label>
+                <a href="#">Forget Password</a>
+              </div>
+              <button>Log in</button>
+              <div class="register">
+                <p>Don't have a account <a href="#">Register</a></p>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script>
+      feather.replace();
+    </script>
+  </body>
+</html>

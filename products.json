@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "AVI-8 Hawker Hunter AV-4052-R1",
+    "price": 1240000,
+    "image": "img/terbaru/terbaru1.jpg",
+    "link": "detailterbaru1.html"
+  },
+
+  {
+    "id": 2,
+    "name": "Frederique Constant Highlife FC-303V4NH2B",
+    "price": "1399000",
+    "image": "img/terbaru/terbaru2.jpg",
+    "link": "detailterbaru2.html"
+  },
+
+  {
+    "id": 3,
+    "name": "Diesel Spiked DZ4608 Chronograph Gold",
+    "price": "1357000",
+    "image": "img/terbaru/terbaru3.jpg",
+    "link": "detailterbaru3.html"
+  },
+
+  {
+    "id": 4,
+    "name": "Garmin Venu 3S 010-02785-50 Smartwatch",
+    "price": "1999000",
+    "image": "img/terbaru/terbaru4.jpg",
+    "link": "detailterbaru4.html"
+  },
+
+  {
+    "id": 5,
+    "name": "Casio G-Shock MT-G MTG-B2000BD-1A4DR",
+    "price": "1689000",
+    "image": "img/terbaru/terbaru5.jpg",
+    "link": "detailterbaru5.html"
+  }
+]
